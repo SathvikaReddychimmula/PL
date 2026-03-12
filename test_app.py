@@ -1,3 +1,3 @@
-print("Test Started")
-import app
-print("Test Finished")
+from app import add
+print(add(2,3))
+print(add(5,10))

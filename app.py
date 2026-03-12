@@ -1,1 +1,2 @@
-print("DevOps Pipeline Debug Success")
+def add(a, b):
+    return a + b
